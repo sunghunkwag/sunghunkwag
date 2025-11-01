@@ -1,6 +1,6 @@
-🤖 Independent Researcher | AI-Assisted Project Director
-🦾 AI-Native Research Approach
-⚡ Building AI architectures through human-AI partnership
+ Independent Researcher | AI-Assisted Project Director
+ AI-Native Research Approach
+ Building AI architectures through human-AI partnership
 
 ### About Me
 - 🔬 Independent AI Researcher
