@@ -1,1 +1,1 @@
-Independent AI Researcher<br>I design and build advanced AI architectures for real-world impact through direct human–AI collaboration, leveraging AI agent tools to accelerate research and implementation. I focus on conceptual design while overseeing the technical workflow . 
+Independent AI Researcher<br>I design and build advanced AI architectures for real-world impact through direct human–AI collaboration, leveraging AI agent tools to accelerate research and implementation.
