@@ -1,5 +1,3 @@
-# Sung hun kwag
-
 ## Independent AI Researcher
 **Pioneering Human-AI Collaborative Research**
 
