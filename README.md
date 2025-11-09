@@ -1,6 +1,6 @@
 Independent AI Researcher
 
-I develop AI architectures through hypothesis-driven research.
+I design AI architectures through hypothesis-driven research.
 My repositories constitute an experimental portfolio testing 
 foundational assumptions about scalable intelligence systems 
 using AI-augmented rapid prototyping methodologies . 
