@@ -1,9 +1,10 @@
 Independent AI Researcher
 
-I design AI architectures through hypothesis-driven research.
+I design AI architectures through hypothesis-driven research. 
 My repositories constitute an experimental portfolio testing 
 foundational assumptions about scalable intelligence systems 
-using AI-augmented rapid prototyping methodologies . 
+using AI-augmented conceptual modeling methodologies.
+ 
 
 
 **Contact:** sunghunkwag@gmail.com 
