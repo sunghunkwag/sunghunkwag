@@ -1,6 +1,9 @@
 Independent AI Researcher
 
-I architect advanced AI systems through conceptual design and AI-augmented implementation, pioneering methodologies that accelerate breakthrough innovations.
+I develop AI architectures through hypothesis-driven research.
+My repositories constitute an experimental portfolio testing 
+foundational assumptions about scalable intelligence systems 
+using AI-augmented rapid prototyping methodologies . 
 
 
 **Contact:** sunghunkwag@gmail.com 
