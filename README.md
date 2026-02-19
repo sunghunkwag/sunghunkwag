@@ -1,10 +1,11 @@
 Independent AI Researcher
 
-I design AI architectures through hypothesis-driven research. 
-My repositories constitute an experimental portfolio testing 
-foundational assumptions about scalable intelligence systems 
-using AI-augmented conceptual modeling methodologies.
- 
+I explore recursive optimization and self-modifying learning systems
+through small, hypothesis-driven experiments.
 
+Repositories document iterative development cycles, testing
+foundational assumptions about scalable learning architectures.
+Most work is exploratory—probing failure modes, edge cases, 
+and architectural tradeoffs in constrained domains.
 
-**Contact:** sunghunkwag@gmail.com 
+Contact: [sunghunkwag@gmail.com](mailto:sunghunkwag@gmail.com)
