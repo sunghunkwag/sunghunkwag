@@ -1,7 +1,8 @@
 Independent AI Researcher
 
-I explore recursive optimization and self-modifying learning systems
-through small, hypothesis-driven experiments.
+I explore meta-learning, neural architectures, and autonomous agent systems
+through small, hypothesis-driven experiments—with a subset focused on 
+recursive self-improvement and self-modifying code synthesis.
 
 Repositories document iterative development cycles, testing
 foundational assumptions about scalable learning architectures.
