@@ -1,7 +1,7 @@
-Independent AI Researcher
+## Independent AI Researcher
 
-I explore meta-learning, neural architectures, and autonomous agent systems through small, hypothesis-driven experiments, including studies of autonomous optimization mechanisms and controlled self-modification processes.
+I build and test alternative AI architectures — focused on compute-efficient design beyond transformer scaling.
 
-Repositories document iterative development cycles and experimental evaluations of architectural assumptions under practical constraints. Most work is exploratory, with emphasis on failure modes, edge cases, and tradeoffs in constrained domains.
+Current work explores adaptive self-optimization and meta-reinforcement learning within real-world compute limits.
 
 Contact: [sunghunkwag@gmail.com](mailto:sunghunkwag@gmail.com)
