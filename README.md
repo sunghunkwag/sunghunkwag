@@ -1,6 +1,7 @@
-## AI Researcher & Systems Orchestrator
+## Independent AI Systems Researcher
 
-
-Research produced through multi-AI orchestration — designing architectures and verification protocols, with code generation delegated to AI systems under structured prompting.
+Structure-Breaking Boundary Explorer exploring advanced AI systems,
+alternative architectures, causal world models, verification protocols,
+and the boundary conditions of machine intelligence.
 
 Contact: [sunghunkwag@gmail.com](mailto:sunghunkwag@gmail.com)
