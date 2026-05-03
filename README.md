@@ -1,6 +1,6 @@
 ## Independent AI Systems Researcher
 
-Structure-Breaking Boundary Explorer exploring advanced AI systems,
+Structure-Breaking Boundary Explorer focused on advanced AI systems,
 alternative architectures, causal world models, verification protocols,
 and the boundary conditions of machine intelligence.
 
