@@ -10,13 +10,17 @@ My research does not begin from the assumption that larger Transformers solve in
 
 I build CPU-runnable experimental systems around recursive learning loops, attention-free sequence models, evaluator evolution, operator-program synthesis, structural memory, topological-symbolic engines, and bounded closed-loop generalization.
 
-I am not optimizing for a product pitch. I am building experimental machinery to examine assumptions, expose boundary conditions, and test whether failure traces can become mechanisms for self-directed improvement.
+## The Approach: Demolition as Methodology
+
+I treat AI research like a demolition job. I design systems, push them far past their comfort zone, and wait to see what snaps first. When something breaks, I do not rename the bug as a "feature." I write it down and move on. My GitHub is not a victory parade; it is a crime scene archive of experiments that did not survive contact with reality.
+
+What is novel about my approach is that I do not optimize for applause. I optimize for stress. I assume an idea is wrong until it proves otherwise under real constraints, limited compute, and zero excuses. If a system only works when everyone is optimistic and polite, I assume it does not actually work.
+
+My research is less product-oriented and more boundary-oriented. I am interested in systems that adapt, mutate, reorganize, and expose their own limits under pressure. When it is time to stop theorizing, stop pitching, and build the thing to see what collapses under load, that is usually when I show up—with a screwdriver and low expectations.
 
 ## Current Research Focus
 
-### DeepNeural-AutoExploration
-
-A CPU-runnable closed-loop learning scaffold for studying bounded recursive self-improvement mechanics, operator-program mutation, episodic memory, world-model planning, evaluator evolution, and interaction residue.
+## DeepNeural-AutoExploration
 
 The project investigates how a learning system can:
 
@@ -33,41 +37,7 @@ Repository: [DeepNeural-AutoExploration](https://github.com/sunghunkwag/DeepNeur
 
 ### RSI-NAS-Attention-Free
 
-A residue-evolved generalization harness combining architecture synthesis, learner-program invention, evaluator evolution, held-out validation, and runtime primitive-type invention.
-
-The project focuses on the path:
-
-```text
-residue -> evaluator mutation -> self-generated goals
-residue -> learner-program synthesis -> primitive-type invention
-accepted programs -> cross-task transfer -> held-out testing
-```
-
-It is designed to study whether failure residue can become a productive search signal rather than merely a diagnostic artifact.
-
-Repository: [RSI-NAS-Attention-Free](https://github.com/sunghunkwag/RSI-NAS-Attention-Free)
-
-### OMEGA-THDSE
-
-A unified AI-core integration project connecting Cognitive Core Engine components with the Topological Hyperdimensional Symbolic Engine under a single anti-cheat-enforced architecture.
-
-The project investigates representation-level integration problems:
-
-- 10,000-dimensional FHRR cognitive-side representations
-- 256-dimensional THDSE symbolic/synthesis representations
-- asymmetric dimension bridging
-- concept-to-axiom and axiom-to-skill pathways
-- causal provenance links
-- world-model, memory, self-model, and synthesis bridge modules
-- rule-compliance audits against shortcut implementation patterns
-
-OMEGA-THDSE reflects one of my central research instincts: when two systems are said to be “integrated,” I look for the actual representational pathway, the invariant-preserving bridge, and the failure point where the illusion of integration collapses.
-
-Repository: [OMEGA-THDSE](https://github.com/sunghunkwag/OMEGA-THDSE)
-
-### attention-free-sequence-model
-
-A systematic exploration of sequence modeling without standard Transformer attention.
+Automatic neural architecture search without attention mechanisms.
 
 The project documents manual failures, mechanism discovery, automated search over thousands of candidate architectures, and attention-free mechanisms for long-range information transfer.
 
@@ -124,5 +94,6 @@ This makes my work less product-oriented and more boundary-oriented. I am intere
 
 ## Contact
 
-Email: [sunghunkwag@gmail.com](mailto:sunghunkwag@gmail.com)  
+Email: [sunghunkwag@gmail.com](mailto:sunghunkwag@gmail.com)
+
 Intro Video: https://www.youtube.com/watch?v=Ky7TQA2BUnk
