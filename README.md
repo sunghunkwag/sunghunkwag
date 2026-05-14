@@ -17,4 +17,4 @@ Building and stress-testing the underlying machinery itself.
 ---
 
 📧 Email: sunghunkwag@gmail.com  
-🎥 Research Video: https://www.youtube.com/watch?v=Ky7TQA2BUnk
+🎥 Intro Video: https://www.youtube.com/watch?v=Ky7TQA2BUnk
