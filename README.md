@@ -95,5 +95,3 @@ This makes my work less product-oriented and more boundary-oriented. I am intere
 ## Contact
 
 Email: [sunghunkwag@gmail.com](mailto:sunghunkwag@gmail.com)
-
-Intro Video: https://www.youtube.com/watch?v=Ky7TQA2BUnk
