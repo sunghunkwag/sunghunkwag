@@ -1,74 +1,79 @@
 # Sunghun Kwag — Independent AI Systems Researcher
 
-I build experimental AI systems that test the boundary conditions of machine intelligence: recursive self-improvement, alternative sequence architectures, verification-first evaluation, and compute-efficient learning under constrained resources.
+Independent researcher exploring recursive AI systems, attention-free architectures, state-space models, structural memory, and self-evolving computation under constrained compute environments.
 
-My work is not centered on application-layer AI wrappers. It is focused on the machinery underneath: architectures, benchmarks, failure modes, self-modification loops, and evaluation protocols that expose whether an AI system is genuinely improving or merely optimizing surface metrics.
+My work focuses on experimental AI system design rather than application-layer tooling.
+I build research prototypes that investigate adaptation, long-range sequence processing, recursive modification, architecture search, and machine intelligence beyond standard Transformer scaling assumptions.
 
-## Research Program
+## Current Research Directions
 
-### Hybrid Program Synthesis with Safe Self-Improvement Loops
+### Attention-Free and Post-Transformer Architectures
 
-I work on experimental systems capable of synthesizing, testing, abstracting, and reusing code under controlled safety constraints.
+I explore sequence architectures that avoid standard attention mechanisms while preserving long-range information transfer and hierarchical computation.
 
-- **Hybrid Program Synthesis with RSI** — an experimental synthesis engine using neuro-genetic search, hierarchical library learning, persistent primitive discovery, and watchdog process isolation.
-- Focuses on safe execution of generated programs, semantic uniqueness checks, reusable primitive abstraction, and meta-learning over synthesis success patterns.
-- Designed as a research platform for studying constrained recursive improvement and autonomous operator discovery.
-
-Repository: [Hybrid-Program-Synthesis-with-RSI](https://github.com/sunghunkwag/Hybrid-Program-Synthesis-with-RSI)
-
-### Alternative Sequence Architectures Beyond Attention
-
-A major part of my work explores whether long-range sequence modeling can be achieved without standard Transformer attention.
-
-- **Attention-Free Sequence Model** — documents a systematic architecture search over attention-free sequence mechanisms.
-- Includes manually designed failures, a successful attention-free design, and an automated search over thousands of candidate architectures.
-- The project emphasizes mechanism discovery, failure documentation, long-range information transfer, hierarchical computation, and non-quadratic routing alternatives.
+- **attention-free-sequence-model** — architecture exploration involving manual failures, mechanism discovery, and automated search across thousands of candidate architectures.
+- Investigates non-attention routing, spectral propagation, hierarchical pooling, dynamic gating, field-based computation, and O(L)-oriented sequence processing.
+- Includes experimental systems such as Adaptive Field Networks and Seeker Field Networks.
 
 Repository: [attention-free-sequence-model](https://github.com/sunghunkwag/attention-free-sequence-model)
 
-### State Space Models, Meta-Adaptation, and Stability Testing
+### Recursive and Self-Evolving Systems
 
-I test state-space and post-Transformer architectures under distribution shift, constrained compute, and stability-sensitive settings.
+I develop experimental recursive systems capable of synthesizing, modifying, and extending their own operational structures.
 
-- **SSM-MetaRL-TestCompute** — experiments with State Space Models under switching dynamics, test-time adaptation, and meta-learning scaffolds.
-- Includes Switching LDS benchmarks, shock/recovery metrics, C-MAPSS Remaining Useful Life prediction, numerical stability controls, and cautious single-run benchmark reporting.
+- **Hybrid-Program-Synthesis-with-RSI** — neuro-genetic synthesis engine with recursive primitive discovery, hierarchical library evolution, AST-based execution constraints, and persistent operator accumulation.
+- Focused on recursive modification dynamics, abstraction formation, and autonomous operator generation.
+
+Repository: [Hybrid-Program-Synthesis-with-RSI](https://github.com/sunghunkwag/Hybrid-Program-Synthesis-with-RSI)
+
+### State Space Models and Adaptive Dynamics
+
+I investigate state-space architectures under instability, distribution shift, and constrained-resource conditions.
+
+- **SSM-MetaRL-TestCompute** — experiments involving switching dynamics, test-time adaptation, meta-learning scaffolds, and stability-oriented evaluation.
+- Includes constrained-compute benchmarks, shock/recovery analysis, and adaptive sequence modeling experiments.
 
 Repository: [SSM-MetaRL-TestCompute](https://github.com/sunghunkwag/SSM-MetaRL-TestCompute)
 
-- **DHC-SSM-Enhanced** — an experimental Deterministic Hierarchical Causal State Space Model for probing linear-complexity spatial-temporal processing and RL control tasks.
-- Explicitly documents not only positive learning behavior, but also numerical instability, causal leakage risks, initialization sensitivity, and scope limitations.
+- **DHC-SSM-Enhanced** — deterministic hierarchical causal state-space experiments for reinforcement learning and sequential processing.
+- Documents instability boundaries, initialization sensitivity, causal leakage risks, and scaling limitations.
 
 Repository: [DHC-SSM-Enhanced](https://github.com/sunghunkwag/DHC-SSM-Enhanced)
 
-## Core Themes
+### Structural Memory and Field-Based Computation
 
-- Recursive and self-modifying AI systems
-- Verification-first evaluation and stability analysis
-- Architecture search beyond conventional Transformer scaling
-- State-space and attention-free sequence modeling
-- Failure-driven research: documenting where systems break, not only where they work
-- Compute-efficient experimentation under real-world constraints
-- Safety boundaries, sandboxing, and adversarial evaluation protocols
+Recent work explores persistent structural memory, interference dynamics, and non-standard information organization.
 
-## Research Style
+- **structural-memory-field** — experiments involving latent structural residue and persistent memory organization.
+- **field-interference-network** — exploratory work on interference-based representation dynamics.
+- **Multi-Paradigm-Swarm-SSM** — swarm-oriented and multi-paradigm state-space coordination experiments.
+- **OMEGA-THDSE** and **thdse** — ongoing experimental systems research.
 
-I treat AI systems as structures to be stress-tested, not products to be polished.
+## Research Characteristics
 
-My repositories are built around a recurring question:
+- Architecture-first experimentation
+- Failure-driven iteration and mechanism analysis
+- Recursive and adaptive system design
+- Attention-free sequence modeling
+- State-space and meta-adaptive computation
+- Structural memory and dynamic representation systems
+- Constrained-compute experimentation
+- Explicit investigation of instability and boundary conditions
 
-> Can adaptive AI systems reorganize and improve themselves while remaining measurable, inspectable, and constrained by explicit verification procedures?
+I am particularly interested in:
 
-This question drives my work across program synthesis, alternative architectures, state-space modeling, recursive adaptation, and failure analysis.
+> how adaptive systems reorganize themselves under pressure, instability, recursion, and limited computational resources.
 
 ## Selected Repositories
 
-- [Hybrid-Program-Synthesis-with-RSI](https://github.com/sunghunkwag/Hybrid-Program-Synthesis-with-RSI) — safe self-improving program synthesis engine
-- [attention-free-sequence-model](https://github.com/sunghunkwag/attention-free-sequence-model) — attention-free architecture search and sequence modeling experiments
-- [SSM-MetaRL-TestCompute](https://github.com/sunghunkwag/SSM-MetaRL-TestCompute) — SSM adaptation, switching dynamics, and constrained-compute testing
-- [DHC-SSM-Enhanced](https://github.com/sunghunkwag/DHC-SSM-Enhanced) — deterministic hierarchical causal SSM experiments
-- [MetaRL-Agent-Framework](https://github.com/sunghunkwag/MetaRL-Agent-Framework) — meta-reinforcement learning agent framework
-- [Neural-Symbolic-Reasoning-Framework](https://github.com/sunghunkwag/Neural-Symbolic-Reasoning-Framework) — neural-symbolic reasoning experiments
-- [structural-memory-field](https://github.com/sunghunkwag/structural-memory-field) — structural memory and latent residue experiments
+- [attention-free-sequence-model](https://github.com/sunghunkwag/attention-free-sequence-model)
+- [Hybrid-Program-Synthesis-with-RSI](https://github.com/sunghunkwag/Hybrid-Program-Synthesis-with-RSI)
+- [SSM-MetaRL-TestCompute](https://github.com/sunghunkwag/SSM-MetaRL-TestCompute)
+- [DHC-SSM-Enhanced](https://github.com/sunghunkwag/DHC-SSM-Enhanced)
+- [Multi-Paradigm-Swarm-SSM](https://github.com/sunghunkwag/Multi-Paradigm-Swarm-SSM)
+- [structural-memory-field](https://github.com/sunghunkwag/structural-memory-field)
+- [field-interference-network](https://github.com/sunghunkwag/field-interference-network)
+- [OMEGA-THDSE](https://github.com/sunghunkwag/OMEGA-THDSE)
 
 ## Contact
 
