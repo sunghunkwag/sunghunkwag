@@ -6,22 +6,13 @@ My work is not centered on application-layer AI wrappers. It is focused on the m
 
 ## Research Program
 
-### Recursive Self-Improvement & AI Verification
+### Hybrid Program Synthesis with Safe Self-Improvement Loops
 
-I am developing practical infrastructure for evaluating Recursive Self-Improvement (RSI) as a measurable systems property rather than a speculative concept.
-
-- **RSI-Bench** — a multi-axis benchmark for evaluating self-modifying AI systems across modification depth, improvement trajectory quality, operator discovery, meta-adaptation speed, safety/stability, and autonomous goal generation.
-- Includes statistical evaluation, bootstrap confidence intervals, Pareto analysis, convergence detection, safety boundary checks, and a tested implementation suite.
-- Goal: distinguish genuine self-improvement from metric gaming, brittle local optimization, or hidden instability.
-
-Repository: [rsi-bench](https://github.com/sunghunkwag/rsi-bench)
-
-### Hybrid Program Synthesis with Safe RSI Loops
-
-I also work on RSI from the implementation side: systems that synthesize, test, abstract, and reuse code under controlled safety constraints.
+I work on experimental systems capable of synthesizing, testing, abstracting, and reusing code under controlled safety constraints.
 
 - **Hybrid Program Synthesis with RSI** — an experimental synthesis engine using neuro-genetic search, hierarchical library learning, persistent primitive discovery, and watchdog process isolation.
 - Focuses on safe execution of generated programs, semantic uniqueness checks, reusable primitive abstraction, and meta-learning over synthesis success patterns.
+- Designed as a research platform for studying constrained recursive improvement and autonomous operator discovery.
 
 Repository: [Hybrid-Program-Synthesis-with-RSI](https://github.com/sunghunkwag/Hybrid-Program-Synthesis-with-RSI)
 
@@ -51,8 +42,8 @@ Repository: [DHC-SSM-Enhanced](https://github.com/sunghunkwag/DHC-SSM-Enhanced)
 
 ## Core Themes
 
-- Recursive self-improvement as an experimentally measurable capability
-- Verification-first evaluation for self-modifying systems
+- Recursive and self-modifying AI systems
+- Verification-first evaluation and stability analysis
 - Architecture search beyond conventional Transformer scaling
 - State-space and attention-free sequence modeling
 - Failure-driven research: documenting where systems break, not only where they work
@@ -63,16 +54,15 @@ Repository: [DHC-SSM-Enhanced](https://github.com/sunghunkwag/DHC-SSM-Enhanced)
 
 I treat AI systems as structures to be stress-tested, not products to be polished.
 
-The central question behind my repositories is:
+My repositories are built around a recurring question:
 
-> Can we build systems that improve, adapt, and reorganize themselves while remaining measurable, inspectable, and bounded by explicit verification protocols?
+> Can adaptive AI systems reorganize and improve themselves while remaining measurable, inspectable, and constrained by explicit verification procedures?
 
-That question drives my work across RSI benchmarking, program synthesis, alternative architectures, state-space modeling, and failure analysis.
+This question drives my work across program synthesis, alternative architectures, state-space modeling, recursive adaptation, and failure analysis.
 
 ## Selected Repositories
 
-- [rsi-bench](https://github.com/sunghunkwag/rsi-bench) — multi-axis RSI benchmark and statistical evaluation framework
-- [Hybrid-Program-Synthesis-with-RSI](https://github.com/sunghunkwag/Hybrid-Program-Synthesis-with-RSI) — safe RSI-oriented program synthesis engine
+- [Hybrid-Program-Synthesis-with-RSI](https://github.com/sunghunkwag/Hybrid-Program-Synthesis-with-RSI) — safe self-improving program synthesis engine
 - [attention-free-sequence-model](https://github.com/sunghunkwag/attention-free-sequence-model) — attention-free architecture search and sequence modeling experiments
 - [SSM-MetaRL-TestCompute](https://github.com/sunghunkwag/SSM-MetaRL-TestCompute) — SSM adaptation, switching dynamics, and constrained-compute testing
 - [DHC-SSM-Enhanced](https://github.com/sunghunkwag/DHC-SSM-Enhanced) — deterministic hierarchical causal SSM experiments
