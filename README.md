@@ -1,13 +1,16 @@
-# Sung hun Kwag — Independent AI Systems Researcher
+# Sung Hun Kwag — Structure-Breaking Boundary Explorer
 
-Independent AI systems researcher focused on recursive learning loops, attention-free architectures, neural architecture search, topological-symbolic engines, and bounded closed-loop generalization.
+**Independent AI Systems Researcher focused on advanced AI systems, alternative architectures, verification protocols, and the boundary conditions of machine intelligence.**
 
-My work starts from a simple habit: I do not accept the default premise.
-If the field assumes attention is necessary, I test attention-free routing.
-If a benchmark rewards surface improvement, I look for leakage, shortcut behavior, and hidden failure residue.
-If a system looks modular on paper, I inspect whether its internal representations can actually communicate.
+I work at the edge where AI systems stop behaving like clean demos and start exposing their real structure: brittle abstractions, hidden shortcuts, fake generalization, benchmark leakage, weak representation bridges, and failure residue that most projects throw away.
 
-I build experimental systems to break assumptions, expose boundary conditions, and turn failure traces into new mechanisms.
+My research does not begin from the assumption that larger Transformers solve intelligence. It begins from a harder question:
+
+> What kind of system can detect its own failure boundary, mutate the instruments used to observe that failure, and turn the residue into a new search direction?
+
+I build CPU-runnable experimental systems around recursive learning loops, attention-free sequence models, evaluator evolution, operator-program synthesis, structural memory, topological-symbolic engines, and bounded closed-loop generalization.
+
+I am not optimizing for a product pitch. I am building experimental machinery to examine assumptions, expose boundary conditions, and test whether failure traces can become mechanisms for self-directed improvement.
 
 ## Current Research Focus
 
@@ -84,9 +87,19 @@ Repository: [attention-free-sequence-model](https://github.com/sunghunkwag/atten
 
 ## Research Identity
 
-I am a structure-breaking researcher.
+I am a structure-breaking boundary explorer.
 
-My tendency is to attack the premise before optimizing inside it. I look for the hidden assumption, the shortcut, the fake abstraction, the benchmark leak, the untested bridge, the dead code path, and the place where a system appears intelligent only because the evaluation failed to interrogate it correctly.
+My default move is not to polish the surface of an existing paradigm. It is to cut into the premise, inspect the hidden machinery, and find the structural point where the claimed intelligence, adaptation, or integration breaks.
+
+I look for:
+
+- the hidden assumption
+- the shortcut path
+- the fake abstraction
+- the benchmark leak
+- the untested bridge
+- the inactive code path
+- the failure residue that can be converted into a new mechanism
 
 This makes my work less product-oriented and more boundary-oriented. I am interested in systems that adapt, mutate, reorganize, and expose their own limits under pressure.
 
