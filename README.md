@@ -1,4 +1,4 @@
-# Sunghun Kwag — Independent AI Systems Researcher
+# Sung hun Kwag — Independent AI Systems Researcher
 
 Independent AI systems researcher focused on recursive learning loops, attention-free architectures, neural architecture search, topological-symbolic engines, and bounded closed-loop generalization.
 
