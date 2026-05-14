@@ -20,7 +20,7 @@ My research is less product-oriented and more boundary-oriented. I am interested
 
 ## Current Research Focus
 
-## DeepNeural-AutoExploration
+### DeepNeural-AutoExploration
 
 The project investigates how a learning system can:
 
@@ -53,7 +53,7 @@ It investigates:
 
 This line of work directly challenges the assumption that long-range sequence modeling must be organized around attention-style token interaction.
 
-Repository: [attention-free-sequence-model](https://github.com/sunghunkwag/attention-free-sequence-model)
+Repository: [RSI-NAS-Attention-Free](https://github.com/sunghunkwag/RSI-NAS-Attention-Free)
 
 ## Research Identity
 
