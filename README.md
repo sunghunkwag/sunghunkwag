@@ -1,5 +1,3 @@
-# Sung Hun Kwag — Structure-Breaking Boundary Explorer
-
 **Independent AI Systems Researcher focused on advanced AI systems, alternative architectures, verification protocols, and the boundary conditions of machine intelligence.**
 
 I work at the edge where AI systems stop behaving like clean demos and start exposing their real structure: brittle abstractions, hidden shortcuts, fake generalization, benchmark leakage, weak representation bridges, and failure residue that most projects throw away.
