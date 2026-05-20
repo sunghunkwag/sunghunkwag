@@ -1,5 +1,3 @@
-# Sung Hun Kwag
-
 **Independent AI Systems Researcher — boundary testing, recursive learning systems, and alternative architectures.**
 
 I build CPU-runnable experimental AI systems that treat failure as signal, not noise. My research explores where learning systems break under constrained compute, weak evaluators, distribution shift, brittle abstractions, benchmark leakage, and long-range dependency pressure — then turns those breakdowns into better mechanisms for search, validation, memory, and generalization.
