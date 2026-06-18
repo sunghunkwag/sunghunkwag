@@ -1,23 +1,41 @@
-**Independent AI Systems Researcher — boundary testing, recursive learning systems, and alternative architectures.**
+# Sung Hun Kwag
 
-I build CPU-runnable experimental AI systems that treat failure as signal, not noise. My research explores where learning systems break under constrained compute, weak evaluators, distribution shift, brittle abstractions, benchmark leakage, and long-range dependency pressure — then turns those breakdowns into better mechanisms for search, validation, memory, and generalization.
+**Independent AI Systems Researcher**
 
-## Current Focus
+I study where learning systems break down under constrained compute, weak evaluators, distribution shift, and self-modification pressure. I turn those breakdown points into mechanisms for search, validation, memory, and generalization.
 
-- **[DeepNeural-AutoExploration](https://github.com/sunghunkwag/DeepNeural-AutoExploration)** — recursive adaptation loops with non-leaking episodic memory, operator-program synthesis, validation-only evaluation, evaluator evolution, and failure-to-rule compression.
-- **[RSI-NAS-Attention-Free](https://github.com/sunghunkwag/RSI-NAS-Attention-Free)** — neural architecture search for attention-free sequence models, including routing, spectral propagation, dynamic gating, hierarchical pooling, and field-based alternatives to quadratic attention.
-- **[OMEGA-THDSE](https://github.com/sunghunkwag/OMEGA-THDSE)** — topological, hyperdimensional, and symbolic system experiments for structural representation and reasoning.
-- **[attention-free-sequence-model](https://github.com/sunghunkwag/attention-free-sequence-model)** — compact experiments around non-attention sequence computation.
+Failure is treated as signal, not noise. Most experiments are designed to be reproducible on CPU.
 
-## Research Themes
+## Open questions
 
-- Failure-driven mechanism discovery
-- Boundary-condition testing and anti-cheat evaluation
-- Recursive and self-evolving learning systems
-- Attention-free long-range sequence modeling
-- Structural memory and operator-program mutation
-- CPU-constrained experimental AI systems
+**RSI stability**
+Can self-improvement loops remain stable under non-leaking episodic memory, rollback constraints, and validation-only gates?
+
+Related repositories: `rsi-metaforge-core`, `self-improving-research-kernel`, `DeepNeural-AutoExploration`
+
+**Attention-free sequence modeling**
+Can long-range dependencies be handled without attention, softmax, or transformer-style assumptions?
+
+Related repositories: `attention-free-sequence-model`, `RSI-NAS-Attention-Free`, `DHC-SSM-Enhanced`, `SSM-MetaRL-TestCompute`
+
+**Parameter-free structure**
+Can representation and memory be built without neural networks, learned weights, or standard gradient-based training?
+
+Related repositories: `field-interference-network`, `structural-memory-field`, `OMEGA-THDSE`
+
+**Measuring self-improvement**
+Which axes matter for evaluating self-improvement: self-modification depth, operator discovery, meta-adaptation, rollback stability, evaluator robustness, and failure containment?
+
+Related repository: `rsi-bench`
+
+## Evaluation discipline
+
+Experiments use sealed or hidden evaluations where possible, validation-gated synthesis, rollback constraints, evaluator evolution, and failure-to-rule compression.
+
+Benchmark leakage and evaluator gaming are treated as default threats, not afterthoughts.
+
+Only changes that pass validation are kept. Failed changes remain as records.
 
 ## Contact
 
-Email: [sunghunkwag@gmail.com](mailto:sunghunkwag@gmail.com)
+[sunghunkwag@gmail.com](mailto:sunghunkwag@gmail.com)
