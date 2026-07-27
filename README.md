@@ -36,6 +36,28 @@ Benchmark leakage and evaluator gaming are treated as default threats, not after
 
 Only changes that pass validation are kept. Failed changes remain as records.
 
+## Paid implementation work
+
+Available for small, clearly scoped open-source and AI systems implementation work without Upwork.
+
+Best fit:
+
+- Python features, CLI tools, automation, benchmarks, and test harnesses
+- Reproducible fixes for regressions, CI failures, and evaluation problems
+- AI systems research prototypes with explicit acceptance tests
+
+Fixed-price pilot terms:
+
+- USD 500 for one written deliverable
+- Explicit acceptance criteria agreed before work starts
+- Target delivery within five business days after scope confirmation
+- 50% upfront by bank transfer or Wise; 50% after acceptance
+- One revision within the agreed scope
+- Source, tests, and validation notes delivered through GitHub
+- Scope changes require a separate written agreement
+
+To request work, email the repository or issue URL, expected behavior, reproduction steps or logs, and deadline. Work begins only after scope, acceptance criteria, and payment terms are agreed in writing.
+
 ## Contact
 
 [sunghunkwag@gmail.com](mailto:sunghunkwag@gmail.com)
