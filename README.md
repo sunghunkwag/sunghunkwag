@@ -6,6 +6,8 @@ I study where learning systems break down under constrained compute, weak evalua
 
 Failure is treated as signal, not noise. Most experiments are designed to be reproducible on CPU.
 
+**Research site:** [Intelligence Research Project](https://sunghunkwag.github.io/) · [Recursive self-improvement: definition, history, and how to test a claim](https://sunghunkwag.github.io/research/recursive-self-improvement/)
+
 ## Open questions
 
 **RSI stability**
