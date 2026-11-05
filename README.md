@@ -1,4 +1,4 @@
-# Sung Hun Kwag
+# Intelligence Research Project
 
 **Independent AI Systems Researcher**
 
