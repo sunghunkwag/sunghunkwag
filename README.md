@@ -1,4 +1,4 @@
-# Sung Hun Kwag (곽성훈)
+# Sung Hun Kwag
 
 **Independent AI Systems Researcher**
 
